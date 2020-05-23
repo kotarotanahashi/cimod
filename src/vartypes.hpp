@@ -22,6 +22,7 @@
  * @copyright Copyright (c) Jij Inc. 2020
  * 
  */
+#pragma once
 
 #ifndef VARTYPES_HPP__
 #define VARTYPES_HPP__
