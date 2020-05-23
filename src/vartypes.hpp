@@ -49,6 +49,7 @@ enum class Vartype
  * @param vartype 
  * @return true or false
  */
+/*
 bool check_vartype
 (
     const int32_t &var,
@@ -84,5 +85,5 @@ bool check_vartype
         std::cerr << "Unknown variable type." << std::endl;
     }
 };
-}
+}*/
 #endif
